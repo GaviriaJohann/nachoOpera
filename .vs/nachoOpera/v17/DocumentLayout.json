@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\nachoOpera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs",
+              "RelativeDocumentMoniker": "Division.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs",
+              "RelativeToolTip": "Division.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:17:51.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resta.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs",
+              "RelativeDocumentMoniker": "Resta.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs",
+              "RelativeToolTip": "Resta.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:17:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T23:21:08.194Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs",
+              "RelativeDocumentMoniker": "Resta.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Resta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:06:58.395Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Division.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs",
+              "RelativeDocumentMoniker": "Division.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Division.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:07:37.084Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\johan\source\repos\nachoOpera\bin\Debug\nachoOpera.exe.config
+C:\Users\johan\source\repos\nachoOpera\bin\Debug\nachoOpera.exe
+C:\Users\johan\source\repos\nachoOpera\bin\Debug\nachoOpera.pdb
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.csproj.AssemblyReference.cache
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.frmDivision.resources
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.frmNachoOpera.resources
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.frmMulti.resources
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.Properties.Resources.resources
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.frmResta.resources
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.frmSuma.resources
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.csproj.GenerateResource.cache
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.exe
+C:\Users\johan\source\repos\nachoOpera\obj\Debug\nachoOpera.pdb
