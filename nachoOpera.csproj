@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassSuma.cs" />
     <Compile Include="Division.cs">
       <SubType>Form</SubType>
     </Compile>

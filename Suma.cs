@@ -25,5 +25,21 @@ namespace nachoOpera
 
             this.Hide();
         }
+
+        private void btnSumar_Click(object sender, EventArgs e)
+        {
+            if (txtNumero1.Text != "" && txtNumero2.Text != "")
+            {
+                MessageBox.Show("Por favor ingrese valores correctos");
+            }
+            int numero1 = int.Parse(txtNumero1.Text);
+            int numero2 = int.Parse(txtNumero2.Text);
+
+            ClassSuma classSuma = new ClassSuma();
+            classSuma.Suma(numero1, numero2);
+
+            txtNumero1.Text = "";
+            txtNumero2.Text = "";    
+        }
     }
 }

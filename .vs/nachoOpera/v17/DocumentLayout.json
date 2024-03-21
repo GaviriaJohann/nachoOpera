@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\johan\\source\\repos\\nachoOpera\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\classsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:classsuma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|C:\\Users\\johan\\source\\repos\\nachoOpera\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|C:\\Users\\johan\\source\\repos\\nachoOpera\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:resta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|c:\\users\\johan\\source\\repos\\nachoopera\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{14C370E4-5E53-404E-AA8E-DE3747BF33B1}|nachoOpera.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +43,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Suma.cs",
+              "RelativeDocumentMoniker": "Suma.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Suma.cs",
+              "RelativeToolTip": "Suma.cs",
+              "ViewState": "AQIAABoAAADAmJmZmZkrwCAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:21:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Suma.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Suma.cs",
+              "RelativeDocumentMoniker": "Suma.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Suma.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Suma.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:19:59.918Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassSuma.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\ClassSuma.cs",
+              "RelativeDocumentMoniker": "ClassSuma.cs",
+              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\ClassSuma.cs",
+              "RelativeToolTip": "ClassSuma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:16:47.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Division.cs",
               "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs",
               "RelativeDocumentMoniker": "Division.cs",
@@ -51,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Resta.cs",
               "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs",
               "RelativeDocumentMoniker": "Resta.cs",
@@ -59,12 +101,11 @@
               "RelativeToolTip": "Resta.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAgwBkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:17:44.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T02:17:44.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Inicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Inicio.cs",
               "RelativeDocumentMoniker": "Inicio.cs",
@@ -72,30 +113,6 @@
               "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T23:21:08.194Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Resta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs",
-              "RelativeDocumentMoniker": "Resta.cs",
-              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Resta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Resta.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:06:58.395Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Division.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs",
-              "RelativeDocumentMoniker": "Division.cs",
-              "ToolTip": "C:\\Users\\johan\\source\\repos\\nachoOpera\\Division.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Division.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-19T02:07:37.084Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
